@@ -1,9 +1,9 @@
-# GPT2-colloquial
+# GPT2-colloquial-large
 <!-- [![Run on Ainize](https://ainize.ai/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=https://github.com/ha-mulan/gpt2-food-reviews) -->
 
-GPT2-colloquial
+GPT2-colloquial-large
 =================
-* generate colloquials
+* generate colloquials with gpt2-large
 
  How to use
  ===============
